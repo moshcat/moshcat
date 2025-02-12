@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Abi</h1>
-<h3 align="center">A passionate frontend developer from Bali, Indonesia.</h3>
+### Hello there, I'm Abi 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moshcat&label=Profile%20views&color=0e75b6&style=flat" alt="moshcat" /> </p>
+#### A Full-Stack Developer by day ☼ and a Designer by night ☾
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moshcat&show_icons=true&locale=en&layout=compact" alt="moshcat" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moshcat&" alt="moshcat" /></p>
+Frontend Developer at [DTI Primakara](https://primakara.ac.id/);<br>
+Host/Organizing [Google Developer On Campus Primakara](https://gdg.community.dev/gdg-on-campus-primakara-university-denpasar-indonesia/);<br>
+
+- ⚙️ I use daily: `.vue`, `.js`, `.html`, `.css`, `.ts`, `.svg`, `.psd`, `.ai`
+- 🌍 I'm mostly active within the **Dev Community**
+- 💬 `ping` me about **design**, **problem**, **gaming**, **development**, **design thinking**
