@@ -3,7 +3,7 @@
 #### A Full-Stack Developer by day ☼ and a Designer by night ☾
 
 Frontend Developer at [DTI Primakara](https://primakara.ac.id/);<br>
-Host/Organizing [Google Developer On Campus Primakara](https://gdg.community.dev/gdg-on-campus-primakara-university-denpasar-indonesia/);<br>
+Public Relation at [Google Developer On Campus Primakara](https://gdg.community.dev/gdg-on-campus-primakara-university-denpasar-indonesia/);<br>
 
 - ⚙️ I use daily: `.vue`, `.js`, `.html`, `.css`, `.ts`, `.svg`, `.psd`, `.ai`
 - 🌍 I'm mostly active within the **Dev Community**
